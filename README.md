@@ -357,5 +357,4 @@ This submission is designed to demonstrate more than a model that crosses an acc
 The current model achieves **85.28% accuracy on the untouched test set**, exceeding the required threshold, while the evaluation methodology provides a defensible estimate of generalization.
 
 The next goal is not simply to make the model more complex. It is to make it **more reliable, more generalizable, and more useful to Peakflo's finance workflow**, with a clear engineering path toward 90%+ performance.
-#   P e a k f l o - Y C - W 2 2 - M L - E n g i n e e r - A s s i g n m e n t  
- 
+#
